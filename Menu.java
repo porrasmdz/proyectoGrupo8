@@ -517,7 +517,7 @@ public class Menu
     {
         clearScreen();
         System.out.println("################LOG-IN#################");
-        System.out.printf("Usuario: %n");
+        System.out.printf("Correo: %n");
         String user = entrada.nextLine();
         System.out.printf("Clave: %n");
         String clave = entrada.nextLine();
