@@ -111,16 +111,5 @@ public class Registro
         return registros;
     }
     
-    public static void link(ArrayList<Usuario> users, ArrayList<Vehiculo> vehicles)
-    {
-        /*
-        for(Usuario user: users)
-        {
-            Usuario u = Usuario.searchById(users,r.getUserId());
-            u.getRegistros().add(r);
-            u.setVehiculos(vehicles);
-        }*/
-    }
-    
     
 }
